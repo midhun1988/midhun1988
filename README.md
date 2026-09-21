@@ -55,36 +55,34 @@ Migrated an enterprise Inventory and Maintenance System from legacy ASP.NET Web 
 ### Backend
 
 - C#
-- .NET
+- VB.NET
 - ASP.NET Core
-- ASP.NET Core MVC
+- ASP.NET MVC
 - Web API
 - REST API design
 
 ### Database
 
-- Microsoft SQL Server
+- SQL Server
 - T-SQL
 - Entity Framework Core
-- Stored procedures
-- Query optimization
-- Database performance tuning
+- Stored Procedures
 
-### Frontend and Integration
+### Frontend
 
-- JavaScript
+- HTML
+- CSS
 - Bootstrap
-- Swagger/OpenAPI
-- Postman
+- JavaScript
+- JSON
 
-### Architecture and Engineering
+### Legacy Modernization
 
-- Legacy application modernization
-- Microservices architecture
-- Enterprise application development
-- API integration
-- Performance optimization
-- System integration
+- ASP.NET Web Forms
+- Classic ASP
+- VB.NET
+- Crystal Reports
+- Migration to ASP.NET Core
 
 ## Current Learning Goals
 Designing maintainable microservices , React integration with ASP.NET Core APIs
