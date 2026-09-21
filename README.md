@@ -41,6 +41,18 @@ legacy modernization, and scalable enterprise application architecture.
 - Live demo: [Agri Scan](https://agriscan.runasp.net)
 - Source code: Private repository
 
+### Inventory Management System
+
+An enterprise inventory and maintenance management system for tracking spare
+parts, managing purchase orders, and recording daily maintenance activities.
+
+- Tracks spare parts by location, part number, and technical description
+- Supports automated purchase-order workflows
+- Integrates inventory and maintenance-management processes
+- Technology: ASP.NET Core, C#, SQL Server, HTML, CSS, Bootstrap
+- Repository: [InventoryManagement](https://github.com/midhun1988/InventoryManagement)
+- Source code: Private repository
+
 ## Legacy Modernization Project
 Migrated an enterprise Inventory and Maintenance System from legacy ASP.NET Web Forms and Crystal Reports to ASP.NET Core MVC and SQL Server.
 
