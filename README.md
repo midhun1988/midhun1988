@@ -85,11 +85,19 @@ Migrated an enterprise Inventory and Maintenance System from legacy ASP.NET Web 
 - Migration to ASP.NET Core
 
 ## Current Learning Goals
-Designing maintainable microservices , React integration with ASP.NET Core APIs
+
+- Designing maintainable microservices 
+- React integration with ASP.NET Core APIs
 
 ## Target opportunities
 I am open to opportunities involving backend development, API engineering, legacy modernization, and database-driven business applications.
 
 ## Connect with me
- - LinkedIn: [linkedin.com/in/midhunvs](https://www.linkedin.com/in/midhunvs) 
- - Email:    midhun.vs66@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/midhunvs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="midhun.vs66@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email" />
+  </a>
+</p>
