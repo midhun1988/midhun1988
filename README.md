@@ -31,8 +31,7 @@ legacy modernization, and scalable enterprise application architecture.
 - Performance improvement and system modernization
 - Technical troubleshooting and application maintenance
 
- ## Featured Project: Agri Scan
- 
+ ## Featured Project: Agri Scan 
  **Real-Time AI Leaf Condition Scanner**
  
  A cross-platform web application for real-time and bulk agricultural quality diagnostics through mobile and desktop browsers.
@@ -85,7 +84,6 @@ Migrated an enterprise Inventory and Maintenance System from legacy ASP.NET Web 
 - Migration to ASP.NET Core
 
 ## Current Learning Goals
-
 - Designing maintainable microservices 
 - React integration with ASP.NET Core APIs
 
@@ -97,7 +95,7 @@ I am open to opportunities involving backend development, API engineering, legac
   <a href="https://www.linkedin.com/in/midhunvs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="midhun.vs66@gmail.com" target="_blank">
+   <a href="mailto:midhun.vs66@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email" />
   </a>
 </p>
