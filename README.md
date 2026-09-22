@@ -111,3 +111,5 @@ I am open to opportunities involving backend development, API engineering, legac
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email" />
   </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=midhun&label=Profile%20views&color=0e75b6&style=flat" alt="midhun" /> </p>
