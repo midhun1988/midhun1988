@@ -51,6 +51,7 @@ parts, managing purchase orders, and recording daily maintenance activities.
 - Integrates inventory and maintenance-management processes
 - Technology: ASP.NET Core, C#, SQL Server, HTML, CSS, Bootstrap
 - Repository: [InventoryManagement](https://github.com/midhun1988/InventoryManagement)
+- Live demo:  [Inventory Management System](http://inventoryops.runasp.net/Account/Login)
 - Source code: Private repository
 
 ## Legacy Modernization Project
