@@ -72,10 +72,12 @@ Migrated an enterprise Inventory and Maintenance System from legacy ASP.NET Web 
 - ASP.NET MVC
 - Web API
 - REST API design
+- PHP
 
 ### Database
 
 - SQL Server
+- MySQL
 - T-SQL
 - Entity Framework Core
 - Stored Procedures
